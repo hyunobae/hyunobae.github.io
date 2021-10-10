@@ -72,10 +72,10 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://res.cloudinary.com/knu/image/upload/v1633838508/me_ft64be.png'
+img_cdn: 'https://res.cloudinary.com/knu/image/upload/v1633838508'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/'
+avatar: '/me_ft64be.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
