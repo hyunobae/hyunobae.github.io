@@ -23,7 +23,7 @@ title: Hyuno's Blog                          # the main title
 tagline: M.S. student at KyungPook National University   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  여러가지를 기록합니다. 
+  주인장의 아카이빙 블로그 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://hyunobae.github.io'
 
@@ -72,7 +72,7 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://cdn.com'
+img_cdn: 'https://res.cloudinary.com/knu/image/upload/v1633838508/me_ft64be.png'
 
 # the avatar on sidebar, support local or CORS resources
 avatar: '/assets/image/me.png'
