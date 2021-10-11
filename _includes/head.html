@@ -72,4 +72,8 @@
 
   <script src="https://cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js"></script>
 
+  {% if page.use_math %}
+      {% include mathjax_support.html %}
+  {% endif %}
+
 </head>
