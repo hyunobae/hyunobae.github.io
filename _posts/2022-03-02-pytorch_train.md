@@ -1,5 +1,5 @@
 ---
-title: [Pytorch] zero_grad(), step(), 그리고 backward()에 대한 고찰
+title: zero_grad(), step(), 그리고 backward()에 대한 고찰
 author: hyunobae
 categories: [Pytorch]
 tags: [Pytorch]
