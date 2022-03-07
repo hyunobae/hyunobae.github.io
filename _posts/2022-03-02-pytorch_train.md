@@ -43,4 +43,4 @@ ex) Adam, AdaGrad, RMSProp 등
 마지막으로 step()은 상대적으로 간단하다. 위 과정에서 ***계산된 gradient를 갱신에 사용하겠다는 의미이다.*** gradient 갱신의 주체는 optimizer이기 때문에 optimizer.step()을 사용하면 되겠다.
 
 ---
-이렇게 pytorch를 사용하여 훈련하는 경우 항상 사용되는 부분을 정리해보았다. 다음에는 항상 헷갈리는 dataloader에 대해 정리해봐야겠다.
+이렇게 pytorch를 사용하여 훈련하는 경우 항상 사용되는 부분을 정리해보았다. 다음에는 항상 헷갈리는 dataloader에 대해 정리해봐야겠다. 
